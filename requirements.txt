@@ -1,0 +1,9 @@
+numpy==1.26.4
+faiss-cpu
+sentence-transformers
+torch
+openai
+fastapi
+uvicorn
+gradio
+requests
