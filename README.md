@@ -11,7 +11,7 @@
 ![LLM](https://img.shields.io/badge/LLM-OpenAI-black)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Python](https://img.shields.io/badge/Python-%3E%3D3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 ---
 
