@@ -270,7 +270,7 @@ The UI is designed for:
 ---
 
 ## Project Structure
-
+```text
 PERSIAN_RAG_SYSTEM/
 │
 ├── demo/
