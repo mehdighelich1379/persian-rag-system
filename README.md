@@ -417,4 +417,3 @@ For questions, collaboration, or feedback, feel free to reach out:
 
 - **Email:** qelejkhanimehdi@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mehdighelich
-
